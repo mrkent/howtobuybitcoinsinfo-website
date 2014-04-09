@@ -1240,3 +1240,13 @@ buybitcoinph:
     <p>Safest and easiest way to buy and sell bitcoins in Philippines.</p>
   tags: [atm]
   coins: [BTC]
+
+purseio
+  label: Purse.IO
+  countries: [us, ca, uk, de, fr, it, es, cn, in, jp]
+  url: https://purse.io
+  content:|
+    <p>Buy Bitcoins conveniently with a credit card. Spend Bitcoins on Amazon at a discount.</p>
+  tags: [amazon, credit card]
+  coins: [btc]
+
